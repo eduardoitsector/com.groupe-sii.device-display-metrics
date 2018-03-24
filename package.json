@@ -1,0 +1,27 @@
+{
+    "name": "com.groupe-sii.device-display-metrics",
+    "version": "0.0.1",
+    "description": "Cordova plugin device display metrics",
+    "cordova": {
+        "id": "com.groupe-sii.device-display-metrics",
+        "platforms": [
+            "android",
+            "ios"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/groupe-sii/cordova-plugin-device-display-metrics.git"
+    },
+    "keywords": [
+        "cordova",
+        "device",
+        "metrics"
+    ],
+    "author": "Groupe SII",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/groupe-sii/cordova-plugin-device-display-metrics/issues"
+    },
+    "homepage": "https://github.com/groupe-sii/cordova-plugin-device-display-metrics#readme"
+}
