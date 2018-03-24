@@ -1,0 +1,1 @@
+# com.groupe-sii.device-display-metrics
